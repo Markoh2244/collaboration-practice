@@ -1,10 +1,10 @@
-#### 1 Mr. Mueller wuz here!
+#### 1 owner's text
 #### 2
-#### 3 President Josiah was here!
+#### 3 
 #### 4
 #### 5
 #### 6
-#### 7
+#### 7 owner's text
 #### 8
 #### 9
 #### 10
